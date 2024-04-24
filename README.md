@@ -2,7 +2,13 @@
 
 Welcome on this public repo where you can find the [installer](https://github.com/akaRicane/astar/releases/latest) of our creative coding software ASTAR.
 
-The software works on Mac OS and Windows and is on its alpha stage for now. 
+The software works on Mac OS, Windows & Linux and is on its beta stage for now. 
+
+# Wiki
+
+**All documentation is available in the [wiki](https://github.com/akaRicane/astar-distribution/wiki)**
+
+Do not hesitate to suggest modifications / ameliorations / new content !
 
 # Community
 
